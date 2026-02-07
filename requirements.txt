@@ -1,7 +1,8 @@
-# requirements-clean.txt (NO VERSION NUMBERS)
 streamlit
 pandas
 numpy
 scikit-learn
+matplotlib
+seaborn
 plotly
 statsmodels
